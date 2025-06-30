@@ -22,9 +22,8 @@
 
 - 🎓 **B.Tech CSE (2nd Year)** @ GCoEA
 - 🧠 **Competitive Programmer** (CF: Specialist | LC: Knight | CC: 3⭐)
-- 🛠️ **Web Dev:** Building with **Next.js**, **Clerk**, **Convex**, **MongoDB**
+- 🛠️ **Web Dev:** Building with **Next.js**, **ExpressJs**, **React**, **MongoDB**
 - 🏆 **Smart India Hackathon Winner** (2023)
-- 📱 Maker of **VEFy – Personal Health Companion** using Firebase, Gemini API & Next.js
 - ☁️ Currently working on a **real-time collaborative whiteboard**
 
 ---
@@ -50,8 +49,6 @@
 - 👨‍💻 **Codeforces**: [Specialist](https://codeforces.com/profile/sulabhambule)
 - ⚔️ **LeetCode**: [Knight](https://leetcode.com/u/SULABH_AMBULE/)
 - 🧠 700+ problems solved
-- 🥇 Represented GCoEA in contests, hackathons, and coding battles
-
 ---
 
 ## 📈 GitHub Stats
