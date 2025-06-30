@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech CSE (2nd Year)** @ GCoEA
+- 🎓 **B.Tech CSE (3nd Year)** @ Gov. College Of Engineering, Chhatrapati SambhajiNagar.
 - 🧠 **Competitive Programmer** (CF: Specialist | LC: Knight | CC: 3⭐)
 - 🛠️ **Web Dev:** Building with **Next.js**, **ExpressJs**, **React**, **MongoDB**
 - 🏆 **Smart India Hackathon Winner** (2023)
