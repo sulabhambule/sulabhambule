@@ -24,7 +24,6 @@
 - 🧠 **Competitive Programmer** (CF: Specialist | LC: Knight | CC: 3⭐)
 - 🛠️ **Web Dev:** Building with **Next.js**, **ExpressJs**, **React**, **MongoDB**
 - 🏆 **Smart India Hackathon Winner** (2023)
-- ☁️ Currently working on a **real-time collaborative whiteboard**
 
 ---
 
