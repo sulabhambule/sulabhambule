@@ -47,7 +47,7 @@
 
 - 👨‍💻 **Codeforces**: [Specialist](https://codeforces.com/profile/sulabhambule)
 - ⚔️ **LeetCode**: [Knight](https://leetcode.com/u/SULABH_AMBULE/)
-- 🧠 700+ problems solved
+- 🧠 1000+ problems solved
 ---
 
 ## 📈 GitHub Stats
