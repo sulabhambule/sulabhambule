@@ -21,7 +21,7 @@
 ## 🚀 About Me
 
 - 🎓 **B.Tech CSE (final Year)** @ Gov. College Of Engineering, Chhatrapati SambhajiNagar.
-- 🧠 **Competitive Programmer** (CF: Specialist | LC: Guardian | CC: 3⭐)
+- 🧠 **Competitive Programmer** (CF: Expert | LC: Guardian | CC: 3⭐)
 - 🏆 **ICPC Regional Qualified** (2024)
 - 🛠️ **Web Dev:** Building with **Next.js**, **ExpressJs**, **React**, **MongoDB**, **Spring Boot**
 - 🏆 **Smart India Hackathon Winner** (2023)
